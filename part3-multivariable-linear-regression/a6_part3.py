@@ -47,4 +47,4 @@ for index in range(len(xtest)):
     actual = ytest[index] 
     predicted_y = [index] 
     x_coord = xtest[index] 
-    print(f"miles: {x_coord[0]} age: {x_coord[1]}  Actual: {actual} Predicted: {predicted_y}")
+    print(f"miles: {x_coord[0]} Age: {x_coord[1]}  Actual: {actual} Predicted: {predicted_y}")

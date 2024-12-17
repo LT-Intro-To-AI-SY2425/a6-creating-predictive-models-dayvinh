@@ -10,7 +10,7 @@ x = data[["Age", "EstimatedSalary", "Gender"]].values
 y = data["Purchased"].values
 
 # Step 1: Print the values for x and y
-
+print
 # Step 2: Standardize the data using StandardScaler, 
 
 # Step 3: Transform the data
