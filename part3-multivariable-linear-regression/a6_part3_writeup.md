@@ -13,4 +13,4 @@ My model is womewhat accurate as the predicted values it outputs sometimes are c
 10-year-old: 9180
 20-year-old: 2044
 4. You may notice that some of your predicted results are negative. This is occurring when the value of age and the mileage of the car are very high. Why do you think this is happening?
-I believe this is happening because the model is of a linear graph in which the line will keep going infinitely, so it would make sense that eventually the line reaches a negative value due to a the trend its following.
+I believe this is happening because the model is of a linear graph in which the line will keep going infinitely, so it would make sense that eventually the line reaches a negative value due to the trend it's following.
